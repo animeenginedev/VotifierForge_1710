@@ -1,0 +1,16 @@
+[
+{
+  "modid": "voterewards",
+  "name": "Vote Rewards",
+  "description": "A modified version of the bukkit votifier plugin, sections missing, and a rewrite for forge. no listeners so BL",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["kadzait"],
+  "credits": "Killmety",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
